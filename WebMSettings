@@ -17,5 +17,5 @@ document.getElementsByTagName('video')[0].volume = 0.01;
 document.getElementsByTagName("video")[0].loop = true;
 
 //Set autoplay                                    (true/false)
-document.getElementsByTagName("video")[0].autoplay = false;
+// document.getElementsByTagName("video")[0].autoplay = false;
 
