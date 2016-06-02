@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name        Webm Settings
-// @namespace   Webm Settings
+// @namespace   WebmSettings
 // @author      Failbike
 // @description Webm default settings
 // @include       *.webm
 // @run-at      document-start
 // @version     1.0
 // @grant       none
+// @downloadURL https://github.com/Failbike/WebM-Mute-Userscript/raw/master/WebMSettings.user.js
+// @updateURL https://github.com/Failbike/WebM-Mute-Userscript/raw/master/WebMSettings.user.js
 // ==/UserScript==
 // Test URL http://video.webmfiles.org/big-buck-bunny_trailer.webm
 
